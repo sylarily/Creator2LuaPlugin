@@ -1,9 +1,0 @@
-{
-  "__type__": "cc.ParticleAsset",
-  "_name": "dinamite",
-  "_objFlags": 0,
-  "_native": ".plist",
-  "texture": {
-    "__uuid__": "b9d7a0a3-b9ac-4613-a7c6-30424491120f"
-  }
-}
