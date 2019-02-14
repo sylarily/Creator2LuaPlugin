@@ -1,0 +1,266 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "enemies.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "b-arm-bat": {
+      "__uuid__": "61e31089-5d2b-499a-b3ec-b988cb45120b"
+    },
+    "b-arm-bigmagician": {
+      "__uuid__": "1e368589-1960-47d7-88e5-ee917e8dad47"
+    },
+    "b-arm-dragon": {
+      "__uuid__": "9117dc7a-437c-4b37-ab8a-a67b075c25be"
+    },
+    "b-arm-dualknife": {
+      "__uuid__": "482444c8-49a6-4955-b2c7-04dde8015be6"
+    },
+    "b-arm-magician": {
+      "__uuid__": "35fe7ef6-78f3-46ab-9bd4-51ac53e1d746"
+    },
+    "b-arm-padak": {
+      "__uuid__": "502b61a3-7640-4d6a-a88f-5fd6a9c29c01"
+    },
+    "b-arm-thorn": {
+      "__uuid__": "67d78456-1c3f-4e69-8881-26cd40441f85"
+    },
+    "b-body-bigmacgician": {
+      "__uuid__": "a70a5356-a4a3-44e5-a05f-b171e0225ec1"
+    },
+    "b-body-cloud": {
+      "__uuid__": "600444b8-7c5b-41ad-bb28-fba89e8d3745"
+    },
+    "b-body-dragon": {
+      "__uuid__": "4f21a81a-650a-42e1-8053-51b13d6a37dc"
+    },
+    "b-body-magician": {
+      "__uuid__": "bf007e9e-ae45-4698-81c3-041ca20df27b"
+    },
+    "b-body": {
+      "__uuid__": "6ed4a0cb-ce2d-450f-9fcf-e5cb6a0d8778"
+    },
+    "b-effect-bigmagician": {
+      "__uuid__": "e4c5956c-f405-4e15-973d-e468964fd2cb"
+    },
+    "b-effect-dragon": {
+      "__uuid__": "1cb933e7-5ebb-4d8f-ae63-13e45bbfefdc"
+    },
+    "b-effect-magician": {
+      "__uuid__": "301f7f04-e93f-4938-aaab-7b506a7e05cb"
+    },
+    "b-eye-middle": {
+      "__uuid__": "89143cbe-b687-4ede-b4f6-1ff5aa5748fd"
+    },
+    "b-eye": {
+      "__uuid__": "3b652c96-e12b-499e-bac3-cb437b9b47e4"
+    },
+    "b-head-bigmagician": {
+      "__uuid__": "159ba4c8-ae3f-4105-b324-6d50c1d35ed9"
+    },
+    "b-head-dualknife": {
+      "__uuid__": "2202c741-7aee-40c7-ae7f-23cb99c36f1b"
+    },
+    "crash": {
+      "__uuid__": "2d236b9f-107f-435e-b8f7-790d20b5f080"
+    },
+    "damaged-f": {
+      "__uuid__": "0528ccee-f7fd-4380-9324-3eaca417706a"
+    },
+    "damaged-n": {
+      "__uuid__": "466dcc7a-6db2-47e2-a258-a76bf5c3dc62"
+    },
+    "damaged-r": {
+      "__uuid__": "95b84742-36ac-4324-9746-0b6245a8e881"
+    },
+    "dec-b-back-0": {
+      "__uuid__": "ce14218a-9703-4eb4-a684-82f3f61d096a"
+    },
+    "dec-b-horn-0": {
+      "__uuid__": "b34208cf-e265-4d1e-a714-52f6e3647762"
+    },
+    "dec-b-tail-0": {
+      "__uuid__": "411b46d9-18cd-445e-9bfe-3eb4a5c092f3"
+    },
+    "dec-b-wing-0": {
+      "__uuid__": "a5ba0962-d3e2-403e-bfbf-71becd665cb8"
+    },
+    "dec-r-back-0": {
+      "__uuid__": "637ecafa-564b-49ca-b7b2-3e9081ce33fb"
+    },
+    "dec-r-horn-0": {
+      "__uuid__": "3e0a960a-f12d-4624-9b24-35439ce2b1c7"
+    },
+    "dec-r-tail-0": {
+      "__uuid__": "4aa64aa6-b2f0-485a-818b-c2a2816c2788"
+    },
+    "dec-r-wing-0": {
+      "__uuid__": "a1f9a73b-2cd9-48c8-9e1b-0706a0a04786"
+    },
+    "dec-y-back-0": {
+      "__uuid__": "fe2583c1-0386-4198-8c32-c76fef66c3b3"
+    },
+    "dec-y-horn-0": {
+      "__uuid__": "68527a7e-ec75-4fad-aa4d-eec648f4bcbd"
+    },
+    "dec-y-tail-0": {
+      "__uuid__": "7009ab46-1676-47a7-a39b-382fa72a085e"
+    },
+    "dec-y-wing-0": {
+      "__uuid__": "ea133772-2e8a-4da6-af4a-4b57eea5aa6c"
+    },
+    "hpbar": {
+      "__uuid__": "537c0aaa-0e8c-49eb-bfe1-a553a0d6ec4a"
+    },
+    "hpbar2": {
+      "__uuid__": "f91f63dd-669f-4ee5-8dc9-08f4609c88cf"
+    },
+    "hpbg": {
+      "__uuid__": "0c760b51-d0e0-48de-8d2a-cbbb8d4bfb71"
+    },
+    "r-arm-bignormal": {
+      "__uuid__": "58e98303-5290-4ade-a127-f6bf69f69c6c"
+    },
+    "r-arm-cross": {
+      "__uuid__": "4a165741-6691-4bee-a141-997a815ae536"
+    },
+    "r-arm-gun": {
+      "__uuid__": "5266ef43-e67d-4d6b-a603-c849605125c2"
+    },
+    "r-arm-hammer": {
+      "__uuid__": "866ea2b8-0b99-46ba-8327-a840280a3641"
+    },
+    "r-arm-normal": {
+      "__uuid__": "fe606a39-db61-4a21-a3f9-b1bedfbd0b68"
+    },
+    "r-arm-octo": {
+      "__uuid__": "fb731e16-c376-4c6e-9a0b-9ea0e495b6bd"
+    },
+    "r-arm-sasin": {
+      "__uuid__": "e417ae25-3e85-417b-9df4-e01e65404cf9"
+    },
+    "r-arm-shield": {
+      "__uuid__": "0f954f84-3bf0-4a04-a704-7a7fce46b9b1"
+    },
+    "r-arm-spinspin": {
+      "__uuid__": "fb14cc90-d9a4-4a65-9cab-485b3e9fe98a"
+    },
+    "r-body-bignormal": {
+      "__uuid__": "d16fb2b7-09bd-46cc-a15f-796ce8bfa470"
+    },
+    "r-body-hammer": {
+      "__uuid__": "2cabd466-c9f0-4810-b218-acc6379a31ff"
+    },
+    "r-body-octo": {
+      "__uuid__": "ea53cff6-e6e0-447a-a62c-bdde325890ef"
+    },
+    "r-body-sasin": {
+      "__uuid__": "3b44fa8e-07e9-44e0-ac60-43d8d96d4289"
+    },
+    "r-body-shield": {
+      "__uuid__": "a0aa525c-b638-4796-8e6c-ba4ae87b106b"
+    },
+    "r-body-spinspin": {
+      "__uuid__": "a6409ae9-72a3-462d-a2f0-50bf4bbaec83"
+    },
+    "r-body-throw": {
+      "__uuid__": "c8f9091b-5438-435b-8259-9cd514d3a4f2"
+    },
+    "r-body": {
+      "__uuid__": "542b90b1-24b0-4685-8e6f-d532e6ab17dc"
+    },
+    "r-bullet-gun": {
+      "__uuid__": "2768dec3-7d3f-4561-aaf3-3cb7ccda54f3"
+    },
+    "r-effect-cross": {
+      "__uuid__": "ce030fe9-4dcc-42a6-8a6d-4a06369de0c9"
+    },
+    "r-effect-octo": {
+      "__uuid__": "a3225c6c-b0d0-4244-8cfd-6b248194b91d"
+    },
+    "r-effect-sasin": {
+      "__uuid__": "5a9e64aa-7664-4f38-aa46-5405e05795c6"
+    },
+    "r-eye-middle": {
+      "__uuid__": "79d8d1b1-6d08-4ffc-8b7d-8ecf2a4dc317"
+    },
+    "r-eye": {
+      "__uuid__": "5a6a0372-262d-44bb-a3cf-b83372733104"
+    },
+    "y-arm-anubis": {
+      "__uuid__": "88439c81-b020-4560-b6e3-05c2daacbb84"
+    },
+    "y-arm-chamaeleon": {
+      "__uuid__": "61033b31-185e-44c8-ab68-71e691684704"
+    },
+    "y-arm-elephant": {
+      "__uuid__": "7d6c033e-3d99-4ac3-9b22-aba45b9c9ad9"
+    },
+    "y-arm-gunner": {
+      "__uuid__": "075d6070-11db-4ac2-8513-44c6f2300aca"
+    },
+    "y-arm-hydra": {
+      "__uuid__": "44086a00-93d0-469a-b5ca-c6fdf41c36a9"
+    },
+    "y-arm-scorpion": {
+      "__uuid__": "594e3d54-6566-4b50-b01a-2cff9a0da9bc"
+    },
+    "y-body-anubis": {
+      "__uuid__": "0434ec60-0f72-41ce-b2b6-404dcc8a23a7"
+    },
+    "y-body-bug": {
+      "__uuid__": "e1d4bd14-dcba-4da2-be70-feaa2bd9c280"
+    },
+    "y-body-chamaeleon": {
+      "__uuid__": "ce438f40-210b-4c39-946f-ef7423e7d016"
+    },
+    "y-body-elephant": {
+      "__uuid__": "af8a2a9c-9075-43d1-a52b-0769b45f69d4"
+    },
+    "y-body-gunner": {
+      "__uuid__": "fd064441-845c-4640-80e5-eca532fd9410"
+    },
+    "y-body-hydra": {
+      "__uuid__": "ddce467a-b2d8-4356-8e83-fb136d865a49"
+    },
+    "y-body-jirung": {
+      "__uuid__": "f4643f76-03b9-4583-9749-25f60ba0caf5"
+    },
+    "y-body-jirung2": {
+      "__uuid__": "433e0771-e150-4ac5-8e4f-16954d11e7f3"
+    },
+    "y-body-scorpion": {
+      "__uuid__": "33a220d0-a147-45e2-aa11-59c64d945d0e"
+    },
+    "y-body-sunin": {
+      "__uuid__": "9ad5ea74-8ba0-4a3b-9ec0-a3b85911ce7e"
+    },
+    "y-effect-anubis": {
+      "__uuid__": "ba2ef937-a882-42a0-b0e2-8bb880748cfd"
+    },
+    "y-effect-anubis2": {
+      "__uuid__": "1bab104f-cf32-4abe-b6ae-1e15a9af0ef8"
+    },
+    "y-effect-hydra1": {
+      "__uuid__": "85008cc1-30f9-4fc6-ad93-df87717e7054"
+    },
+    "y-effect-hydra2": {
+      "__uuid__": "ca165b05-58ad-40af-89e3-29e78c386265"
+    },
+    "y-effect-hydra3": {
+      "__uuid__": "bf5276ee-ea72-4369-a040-5641263abdab"
+    },
+    "y-effect-hydra4": {
+      "__uuid__": "73a7754f-b659-46d7-a2af-f8dd4923e2ce"
+    },
+    "y-effect-scorpion": {
+      "__uuid__": "c19fc956-96d5-458f-b435-48dc8477de40"
+    },
+    "y-eye-middle": {
+      "__uuid__": "61c19b11-1365-44b5-a45b-0ab98f4733a0"
+    },
+    "y-eye": {
+      "__uuid__": "477ba98f-9c27-42c4-99f0-7f208baa000b"
+    }
+  }
+}

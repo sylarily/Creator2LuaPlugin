@@ -1,0 +1,38 @@
+{
+    "name": "forlua",
+    "version": "0.1",
+    "description": "use creator for cocos2d-x lua",
+    "author": "iqibai games",
+    "main": "main.js",
+
+    "main-menu": {
+        "i18n:MAIN_MENU.project.title/forlua/build-and-copy-assets": {
+            "message": "forlua:build-and-copy-assets"
+        },
+        "i18n:MAIN_MENU.project.title/forlua/build": {
+            "message": "forlua:build"
+        },
+        "i18n:MAIN_MENU.project.title/forlua/settings": {
+            "message": "forlua:settings"
+        }
+    },
+
+    "panel": {
+        "main": "panel/settings.js",
+        "type": "dockable",
+        "title": "forlua settings",
+        "width": 480,
+        "min-width": 480,
+        "height": 480,
+        "min-height": 480
+    },
+    
+    "profiles": {
+        "project": {
+            "setup": false,
+            "path": "",
+            "autoBuild": false,
+            "exportResources": false
+        }
+    }
+}

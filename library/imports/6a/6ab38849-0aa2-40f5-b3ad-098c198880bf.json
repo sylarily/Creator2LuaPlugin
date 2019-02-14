@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-damage",
+    "texture": "63001a4b-ad33-4448-a70a-cbfd9c5046cb",
+    "atlas": "fbe65d6d-aac1-4ad2-b80a-e73a3ef76f34",
+    "rect": [
+      649,
+      188,
+      78,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      101
+    ],
+    "rotated": 1,
+    "capInsets": [
+      27,
+      16,
+      27,
+      30
+    ]
+  }
+}

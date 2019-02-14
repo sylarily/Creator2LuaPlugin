@@ -1,0 +1,27 @@
+
+sprite-lantern-deng.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sprite_label_glow
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sprite_label_hot
+  rotate: false
+  xy: 150, 84
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+sprite_lantern
+  rotate: true
+  xy: 2, 68
+  size: 58, 146
+  orig: 58, 146
+  offset: 0, 0
+  index: -1

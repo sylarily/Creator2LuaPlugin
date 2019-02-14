@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "y-body-jirung2",
+    "texture": "3f94f441-7edb-48b7-9b5f-1c665504718a",
+    "atlas": "1ebb36e4-8e31-41ec-817c-d5f9905d289b",
+    "rect": [
+      797,
+      545,
+      139,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      147,
+      52
+    ]
+  }
+}

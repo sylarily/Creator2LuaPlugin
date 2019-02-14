@@ -1,0 +1,290 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui-common.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ach0": {
+      "__uuid__": "0e20cd43-aa93-4559-b67a-b74a4ccc0bb6"
+    },
+    "ach1": {
+      "__uuid__": "032d391c-7731-409c-86c0-89be65f3e8d4"
+    },
+    "ach2": {
+      "__uuid__": "037ffd03-c9f2-4048-b764-5a9d20312ce7"
+    },
+    "ach3": {
+      "__uuid__": "437b1ace-5d98-4bbe-8fdf-a32135ab1da2"
+    },
+    "ach4": {
+      "__uuid__": "0cb7e88f-5b2e-4be4-bef6-4d93ddc400a8"
+    },
+    "ach5": {
+      "__uuid__": "c30cfb4b-4559-439a-8157-385bf5ac7a74"
+    },
+    "ach6": {
+      "__uuid__": "3f377863-75cc-434b-8307-5f3128e5a7a1"
+    },
+    "ach7": {
+      "__uuid__": "52862d63-3c34-4d09-a3bf-ea041328f4b8"
+    },
+    "ani-egg-effect": {
+      "__uuid__": "1fbdc475-6f09-4592-990a-4e71ae891b08"
+    },
+    "ani-egg0": {
+      "__uuid__": "7e94ddb7-327e-4da2-aed3-bbb790717316"
+    },
+    "ani-egg1": {
+      "__uuid__": "e618c93e-fe57-4ebb-8d2a-7c8afec87e6f"
+    },
+    "ani-egg2": {
+      "__uuid__": "90d90c18-dc23-412f-9d57-857b4febaf42"
+    },
+    "bg-damage": {
+      "__uuid__": "6ab38849-0aa2-40f5-b3ad-098c198880bf"
+    },
+    "bg-lose": {
+      "__uuid__": "572c5dbf-07b8-4048-a066-c32cec984ebd"
+    },
+    "bg-popbuttons": {
+      "__uuid__": "8cdfbe78-2d8b-4cee-8ecd-965f71a2009e"
+    },
+    "bg-popup": {
+      "__uuid__": "4e0840c2-f9b8-4a9e-944c-9f820017bc7a"
+    },
+    "bg-small": {
+      "__uuid__": "b8ad6ae7-32c5-4fcc-bf2b-e03f9594a5a8"
+    },
+    "bg-title": {
+      "__uuid__": "18f8a4e5-7f86-4811-a919-1ce9e7df5b90"
+    },
+    "bg-unopen": {
+      "__uuid__": "0f5953cd-e39d-4251-b249-8511b10f53b9"
+    },
+    "bg-weapon": {
+      "__uuid__": "8832ad26-5b9e-464c-b19e-e06c063d63a6"
+    },
+    "bg-win": {
+      "__uuid__": "1f81149a-3ce7-43a6-9357-31a659b06fc8"
+    },
+    "btn-achievement": {
+      "__uuid__": "e35db516-95fc-4934-a24d-e88ae6895065"
+    },
+    "btn-back-p": {
+      "__uuid__": "335f7253-e146-4268-8bb9-6dfaace41827"
+    },
+    "btn-back": {
+      "__uuid__": "a435413c-c249-43dd-b6fa-682a6c2d1082"
+    },
+    "btn-back2": {
+      "__uuid__": "7e240e8e-e07c-4490-aa8b-1bafa36547ae"
+    },
+    "btn-bgoff-p": {
+      "__uuid__": "21c51f93-df60-40ef-b257-223fe7da4a8b"
+    },
+    "btn-bgon-p": {
+      "__uuid__": "4e92825d-1bef-47b5-ac07-31ac77b5f7bf"
+    },
+    "btn-challenge": {
+      "__uuid__": "97a9f4a1-e5e6-4bfc-b3be-a00287e6ef5d"
+    },
+    "btn-empty": {
+      "__uuid__": "56a050e8-0f11-45d5-a401-dc233acb86ad"
+    },
+    "btn-gzh": {
+      "__uuid__": "b9c2e31d-2232-4706-a80b-603ae9ab44c4"
+    },
+    "btn-home-p": {
+      "__uuid__": "62cb90aa-e8f5-44a8-88f8-0261a47251e0"
+    },
+    "btn-home": {
+      "__uuid__": "fc52b093-4ec3-4685-869d-177837b9bb15"
+    },
+    "btn-home2": {
+      "__uuid__": "9c4b6a02-e7e5-485b-8653-1d0e17dc2ef3"
+    },
+    "btn-more": {
+      "__uuid__": "2514a077-1314-41fa-9696-69d4d2847028"
+    },
+    "btn-moregame": {
+      "__uuid__": "3b82a199-c87b-436a-8571-8236ea080f35"
+    },
+    "btn-no-p": {
+      "__uuid__": "ac7cba76-015a-43b0-959e-09053d17d71f"
+    },
+    "btn-no": {
+      "__uuid__": "7337a9de-6a79-4fff-8e13-70aa458ab049"
+    },
+    "btn-openegg": {
+      "__uuid__": "d870a5be-41f4-4586-b735-75a92c299634"
+    },
+    "btn-pause": {
+      "__uuid__": "fa5022ea-1337-4590-9e5c-979c711e266f"
+    },
+    "btn-play-p": {
+      "__uuid__": "1afa2ed1-007e-44be-b757-cc2dda04ca38"
+    },
+    "btn-play": {
+      "__uuid__": "e6b66bec-4f60-43a2-b158-6f8857c8712e"
+    },
+    "btn-rank": {
+      "__uuid__": "80668e9e-879c-4159-a02c-d85894d6fd54"
+    },
+    "btn-resume-p": {
+      "__uuid__": "6a364877-1ead-4276-94e7-6caeee4671b0"
+    },
+    "btn-resume": {
+      "__uuid__": "1bb2116b-f7b2-43e9-a95c-3ab458d9e392"
+    },
+    "btn-skill-p": {
+      "__uuid__": "95c7ea6e-35d7-44e2-bd55-8ed83c7ff94c"
+    },
+    "btn-task": {
+      "__uuid__": "54585030-b26a-47ef-a0a6-5e163a0ef963"
+    },
+    "btn-weapon-p": {
+      "__uuid__": "7237f240-3009-4512-ac80-fed5369b25bd"
+    },
+    "btn-weapon": {
+      "__uuid__": "5bf47008-2153-4898-ae8d-90db89c62047"
+    },
+    "btn-x-p": {
+      "__uuid__": "28031c6f-e325-48a0-88d8-18bf712e15bc"
+    },
+    "btn-x": {
+      "__uuid__": "a07674c1-9e54-4ab3-a767-4738424db091"
+    },
+    "btn-x2": {
+      "__uuid__": "05e4e0db-abd5-4b69-bb20-c6f7c6d14612"
+    },
+    "btn-yes-p": {
+      "__uuid__": "a0d0a4ad-0c8e-44e6-813b-41fff6a0f0d6"
+    },
+    "btn-yes": {
+      "__uuid__": "9fc5c9da-8c9f-4195-ab78-be68fe9445ac"
+    },
+    "frame-char-light": {
+      "__uuid__": "8580f042-9715-4e9a-b7fb-05116261c486"
+    },
+    "frame-char": {
+      "__uuid__": "2c5e8580-2f74-46cf-abb2-7f3840d1f73b"
+    },
+    "frame-game-char": {
+      "__uuid__": "4a295848-c67d-4048-a35b-a335af329742"
+    },
+    "game-arrow": {
+      "__uuid__": "9398f64a-50dc-42ed-9647-72494b5b08c3"
+    },
+    "game-arrow2": {
+      "__uuid__": "b0688120-b887-47d0-9246-b45694909023"
+    },
+    "game-circle-curr": {
+      "__uuid__": "59d29a6a-6e55-4fe2-aead-f8a75526ca3e"
+    },
+    "game-circle-ori": {
+      "__uuid__": "a9fd22a3-4970-4dd3-991f-c7868fd1b84e"
+    },
+    "game-circle-ori2": {
+      "__uuid__": "96939115-26f7-405e-8044-7e39d855e5d3"
+    },
+    "icon-coin": {
+      "__uuid__": "8c7a2837-fd07-408f-b4b8-09afa3eda91b"
+    },
+    "icon-dot": {
+      "__uuid__": "20f36171-c6a3-4085-ba3b-f27dc23f7397"
+    },
+    "icon-egg": {
+      "__uuid__": "524b4098-5860-4374-8a99-96f46b658a80"
+    },
+    "icon-reborn-p": {
+      "__uuid__": "816fdae1-2f63-4675-bb19-2b813909a506"
+    },
+    "icon-reborn": {
+      "__uuid__": "e1ec7297-35a6-43cb-a1e1-18d97eee8b94"
+    },
+    "mask-weapon": {
+      "__uuid__": "7ae35bbb-5c42-4acf-b9ac-8a0ab1d1a475"
+    },
+    "patt-arrow": {
+      "__uuid__": "598a2c8d-2925-4899-ae7b-d0d912424f64"
+    },
+    "patt-arrow2": {
+      "__uuid__": "87ddf391-0bd2-46f7-beb9-7e8b7770ad55"
+    },
+    "patt-char-bg": {
+      "__uuid__": "6b4a2c6c-54a6-48e4-ae79-4b1f633483c3"
+    },
+    "patt-levelup": {
+      "__uuid__": "7b0dfbdc-e669-4732-80ef-096be4a22416"
+    },
+    "patt-lock": {
+      "__uuid__": "32a736b9-68c8-4389-abae-b0eec73eb942"
+    },
+    "patt-star": {
+      "__uuid__": "851b8a1b-01b6-44e0-b683-bea53eb9142d"
+    },
+    "patt-star2": {
+      "__uuid__": "47c3190a-ed60-4901-82dd-d6424e2651b5"
+    },
+    "patt-unlock": {
+      "__uuid__": "82640e88-21be-40f2-aa67-f1c8ce81f79a"
+    },
+    "pic-boss-coming": {
+      "__uuid__": "717a46c9-f356-4463-9385-30ac4a59e2db"
+    },
+    "pic-clear": {
+      "__uuid__": "2dda3bf3-b118-4df6-8e00-4eac2031f9a0"
+    },
+    "pic-combo": {
+      "__uuid__": "8a64859f-f224-413e-b034-78d7c5a387a8"
+    },
+    "pic-enemy-turn": {
+      "__uuid__": "07798fcb-78a2-46db-8687-df495008e3db"
+    },
+    "pic-fanta-shoot": {
+      "__uuid__": "21d2f2ec-2bb5-4d89-b84a-2249041a32cf"
+    },
+    "pic-logo": {
+      "__uuid__": "fa3bf367-904f-4654-8148-726446a7afdf"
+    },
+    "pic-player-turn": {
+      "__uuid__": "2039c2bb-dc80-433f-be8e-f30d7e3a3801"
+    },
+    "square-d": {
+      "__uuid__": "c8d167c7-a102-48f8-a2c5-4766d3808d95"
+    },
+    "square-s": {
+      "__uuid__": "d4cd361a-39a1-4394-8ee2-bf97af8c910e"
+    },
+    "square-t": {
+      "__uuid__": "1a7a00f0-157e-4efa-9069-5c12b0f240c7"
+    },
+    "tag-new": {
+      "__uuid__": "0bb8f2fe-b0a4-4ac1-be65-784b6d17cc32"
+    },
+    "tag-share": {
+      "__uuid__": "830c75ae-4226-4cac-b049-3bf4cb7ba7da"
+    },
+    "title-ach": {
+      "__uuid__": "148562cd-f495-4eae-9ba0-be41b879b25a"
+    },
+    "title-close": {
+      "__uuid__": "7b8e6b6d-90c5-42a0-8027-d57f455b5ad1"
+    },
+    "title-cwin": {
+      "__uuid__": "651dfe56-ef82-4089-8d10-a5839571d691"
+    },
+    "title-pause": {
+      "__uuid__": "f2490c5a-7868-4712-add7-4d1b706dda9e"
+    },
+    "title-rank1": {
+      "__uuid__": "42bbdf4e-c9d3-485a-b438-631e7399920f"
+    },
+    "title-rank2": {
+      "__uuid__": "93fee6e5-2c0b-4540-a261-14aacafb1edd"
+    },
+    "title-shop": {
+      "__uuid__": "2e060874-3af9-4264-b24c-aad00e770347"
+    }
+  }
+}

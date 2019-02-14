@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "assets"
+		},
+		{
+			"path": "packages/forlua"
+		},
+		{
+			"path": "gamebox.app"
+		}
+	],
+	"settings": {}
+}

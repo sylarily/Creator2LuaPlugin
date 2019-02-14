@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ach3",
+    "texture": "63001a4b-ad33-4448-a70a-cbfd9c5046cb",
+    "atlas": "fbe65d6d-aac1-4ad2-b80a-e73a3ef76f34",
+    "rect": [
+      918,
+      769,
+      41,
+      45
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      49,
+      47
+    ],
+    "rotated": 1
+  }
+}
